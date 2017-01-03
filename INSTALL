@@ -1,0 +1,9 @@
+Building MrsaCoin
+
+See doc/readme-qt.rst for instructions on building MrsaCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MrsaCoin.
+
+See doc/build-*.txt for instructions on building MrsaCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MrsaCoin.
